@@ -1,0 +1,31 @@
+li{
+    display: flex;
+    color: white;
+}
+h1{
+    color: black;
+}
+.main-header{
+    display: flex;
+    justify-content: center;
+}
+body{
+    color: black;
+    /*background-color: white;*/
+    background-color: #6CACE4;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+.cross{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.check{
+    color: #00ff00;
+    display: flex;
+    justify-content: center;
+}
